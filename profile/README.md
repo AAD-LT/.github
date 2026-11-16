@@ -1,8 +1,19 @@
-<h2>
-  🌿 Aplinkos apsaugos departamentas<br>
-  prie Aplinkos ministerijos
-</h2>
+```text
+      \ | /                                                 .--.
+    --- o ---                                            .-(    ).
+      / | \                                             (___.__)__)
 
-Departamento skaitmeniniai sprendimai, programinės įrangos projektai ir jų dokumentacija.
+      /\             AAA       AAA      DDDDDD              /\
+     /**\           A   A     A   A     D     D            /**\
+    /****\         A     A   A     A    D      D          /****\
+   /******\        AAAAAAA   AAAAAAA    D      D         /******\
+      ||           A     A   A     A    D     D             ||
+      ||           A     A   A     A    DDDDDD              ||
+
+ ~~~~~~~~      ~~~~~~~~~      ~~~~~~~~      ~~~~~~~~~      ~~~~~~~~
+       ~~~~~~~~~       ~~~~~~~~~      ~~~~~~~~~      ~~~~~~~~~
+```
+
+Kuriame ir tobuliname įrankius kasdieniam aplinkosaugos darbui: veiklos planavimui, duomenų valdymui ir procesų automatizavimui.
 
 [Oficiali svetainė](https://aad.lrv.lt/) · [Projektų saugyklos](https://github.com/orgs/AAD-LT/repositories)

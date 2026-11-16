@@ -1,6 +1,6 @@
 <div align="center">
 
-![Technologijos, padedančios saugoti gamtą](assets/aad-digital-banner.svg)
+![Technologijos, padedančios saugoti gamtą](assets/aad-digital-banner.jpg)
 
 ### Technologijos, padedančios saugoti gamtą
 
